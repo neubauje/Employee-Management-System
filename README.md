@@ -50,12 +50,12 @@ There are ( 5 ) employees in the system.
 
 -------------------------------------------------------------------------------------------
 
-Add new employee
-View all employees
-Search employee by SSN
-Edit employee information
-Export employees’ information into a text file
-Import employees’ information from a text file
+1: Add new employee
+2: View all employees
+3: Search employee by SSN
+4: Edit employee information
+5: Export employee information into a text file
+6: Import employee information from a text file
 -------------------------------------------------------------------------------------------
 
 Please enter your option number:
